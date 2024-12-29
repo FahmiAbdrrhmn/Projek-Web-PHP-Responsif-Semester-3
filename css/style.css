@@ -1,0 +1,114 @@
+.warna1 {
+  background-color: #1f4529;
+}
+
+.warna2 {
+  background-color: #47663b;
+}
+
+.warna3 {
+  background-color: #e8ecd7;
+}
+
+.warna4 {
+  background-color: #eed3b1;
+}
+
+.warna5 {
+  color: white;
+}
+
+.warna5:hover {
+  color: #eed3b1;
+}
+
+.warna6 {
+  color: black;
+}
+
+.warna6:hover {
+  color: #e195ab;
+}
+
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/banner.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.input-group {
+  max-width: 600px;
+  margin: auto;
+}
+
+.highlight-kategori {
+  height: 250px;
+}
+
+.daging {
+  background: url("/projeksem3/image/daging.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.telur {
+  background: url("/projeksem3/image/gambartelur.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.no-decoration {
+  text-decoration: none;
+}
+
+.list-group-item {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.list-group-item:hover {
+  background-color: #f8f9fa; /* Warna latar belakang saat di-hover */
+  color: #007bff; /* Warna teks saat di-hover */
+} 
+
+.text-harga {
+  font-size: 20px;
+  color: orange;
+}
+
+.image-box {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.banner2 {
+  height: 300px;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/banner.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.produk-terkait-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+
+}

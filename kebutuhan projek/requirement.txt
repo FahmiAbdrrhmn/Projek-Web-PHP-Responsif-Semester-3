@@ -1,0 +1,30 @@
+Toko Ayam Segar dan Telur "Rizky Barokah"
+
+global requirement
+1. website terdiri dari 3 halaman Utama (home/Utama,produk, tentang kami)
+2. terdiri dari beberapa kategori (daging,telur) daging:utuh, daging, dada, paha atas, paha bawah, ceker
+3. produk wajib punya 1 kategori
+4. produk bisa punya foto (boleh kosong jika belum ada foto)
+5. produk punya penjelasan detail (bisa menjelaskan tentang deskripsi ,ukuran, dll)
+6. produk punya status ketersediaan stok (habis/tersedia)
+7. pengunjung website bisa mencari produk berdasarkan nama
+8. website hanya untuk pemasaran/pameran produk, pemesanan dan pembelian by WhatsApp dan transfer bank
+9. hanya ada 1 akun admin untuk  mengatur website (upload produk, tambah produk, kategori, dll)
+10. website menampilkan akun Instagram, facebook, twitter, yang bisa di klik 
+11. tampilan website harus responsive
+
+halaman Utama requirement
+1. tersedia menu pencarian produk
+2. highlight kategori Daging dan Telur
+3. tampilkan section tentang kami (1 paragraf)
+4. tampilkan 6 produk dan ada tombol see more di bawahnya, diklik menuju halaman produk
+5. tampilkan social media dan WhatsApp
+
+halaman produk 
+1. secara default, halaman produk menampilkan semua produk tanpa terfilter kategori
+2. produk bisa terfilter sesuai kategori yang terpilih
+3. produk menampilkan foto, nama, Harga dan button untuk menuju halaman detail produk
+
+halaman tentang kami
+1. menampilkan foto yang berkaitan dengan toko 
+2. menampilkan text tentang toko 
